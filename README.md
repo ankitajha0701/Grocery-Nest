@@ -51,4 +51,4 @@ Make sure the following tools are installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/grocery-nest.git
+   git clone https://github.com/ankitajha0701/Grocery-Nest.git
