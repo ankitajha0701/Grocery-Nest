@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Aug 2024 13:10:07 at https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/index.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/index.html# -O1 "C:\Users\MACHINE\Downloads\demo\pro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:11:05	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/multi-vendor.html (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/index.html)
+13:11:05	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/single-vendor.html (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/index.html)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/fonts/ms-icons/msicons.eot?v=4.7.0 (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/css/vendor/msicons.min.css)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/css/plugins/owl.video.play.png (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/css/plugins/owl.carousel.min.css)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/images/common/pro-loader.gif (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/css/demo-1.css)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/img/hero-bg/6.jpg (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/css/demo-1.css)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/e (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/js/plugins/swiper-bundle.min.js)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/this.params.url (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/js/plugins/swiper-bundle.min.js)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/t (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/js/plugins/fontawesome.js)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/GET (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/js/plugins/fontawesome.js)
+13:11:07	Error: 	"Not Found" (404) at link https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/wishlist.html (from https://maraviyainfotech.com/wrapbootstrap/masterkart-html/masterkart-html/assets/js/main.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 0 seconds : 245 links scanned, 233 files written (17750028 bytes overall) [9608291 bytes received at 160138 bytes/sec], 10229408 bytes transferred using HTTP compression in 142 files, ratio 19%, 49.0 requests per connection
+(11 errors, 0 warnings, 0 messages)
